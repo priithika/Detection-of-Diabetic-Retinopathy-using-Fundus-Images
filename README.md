@@ -22,7 +22,7 @@ This file contains the code used to train and evaluate the convolutional neural 
 ### 3.VisualizeNeuralNetworks.m
 This file contains the code used to visualize the convolution layers.
 
-### 4ImageReconstruction.m
+### 4.ImageReconstruction.m
 This file contains the code used to reconstruct the first image from the patches generated.
 
 Reference: 
