@@ -1,4 +1,4 @@
-%IP J-Component
+
 %Diabetic Retinopathy - Hard Exudate Detection
 %part-3
 %Visualize Convolutional Layers
