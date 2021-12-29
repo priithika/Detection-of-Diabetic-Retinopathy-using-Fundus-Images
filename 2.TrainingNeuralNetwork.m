@@ -1,4 +1,4 @@
-%IP J-Component
+
 %Diabetic Retinopathy - Hard Exudate Detection
 %part-2
 %Convolutional Neural Network
