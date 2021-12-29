@@ -1,4 +1,4 @@
-%IP J-Component
+
 %Diabetic Retinopathy - Hard Exudate Detection
 %part-4
 %Image Reconstruction
